@@ -66,7 +66,7 @@ fprintf('\n(you should expect to see -0.707107 -0.707107)\n');
 
 fprintf('Program paused. Press enter to continue.\n');
 pause;
-
+    
 
 %% =================== Part 3: Dimension Reduction ===================
 %  You should now implement the projection step to map the data onto the 
